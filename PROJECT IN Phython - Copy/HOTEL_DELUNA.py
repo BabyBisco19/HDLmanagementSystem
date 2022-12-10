@@ -41,7 +41,7 @@ def success():
   print("DO YOU WANT TO CHECK IN!!!")
   answer = str(input("Enter yes or no:"))
   while 1:
-    if answer == "yes":
+    if answer == "yes" or answer == "Yes":
         print("SIGN IN BELOW!!!")
         print("===========================================================")
         print("")
@@ -49,7 +49,7 @@ def success():
         import home as dl
         print(dl.Home())
         break
-    elif answer == "no":
+    elif answer == "no" or answer == "No":
           print(" You need to enter yes to continue.")
           answer = str(input("Do you want to continue and Checkin."))
           if answer == "yes":
