@@ -24,7 +24,7 @@ Record()
 
 ## Authors
 - [@BayBisco19](https://github.com/BabyBisco19/HDLmanagementSystem.git)
--[@Klaudeneaclan](https://github.com/Klaudeneaclan/HDLmanagementSystem.git)
+[@Klaudeneaclan](https://github.com/Klaudeneaclan/HDLmanagementSystem.git)
 [@Gayetajinky](https://github.com/Gayetajinky/HDLmanagementSystem.git)
 ## 🚀 About Me
  Im new about python...
