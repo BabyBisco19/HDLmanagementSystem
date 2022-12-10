@@ -25,13 +25,13 @@ def Payment():
 				print(" 4- Cash")
 				x=int(input("-> "))
 				print("\n Amount: ",(b.price[n]*b.day[n])+b.rc[n])
-				print("\n		 Pay For AnCasa")
+				print("\n		 Pay For Hotel De Luna")
 				print(" (y/n)")
 				ch=str(input("->"))
 				
 				if ch=='y' or ch=='Y':
 					print("\n\n --------------------------------")
-					print("		 Hotel AnCasa")
+					print("		 Hotel De Luna")
 					print(" --------------------------------")
 					print("			 Bill")
 					print(" --------------------------------")
