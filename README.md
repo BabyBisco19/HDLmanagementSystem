@@ -35,8 +35,8 @@ Javascript, HTML....
 https://youtu.be/2dexo0pRRyo
 
 ## Screenshots
+![1](ScreenShots/1.png)
 
-![1](https://ScreenShot/1.PNG)
 
 ## Self Asessment
 Code Reusability - 2/4
