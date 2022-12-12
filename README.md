@@ -10,7 +10,7 @@ This Project on Hotel Management is a general software developed (using Python) 
 - To find the recent records od customer
 - For easiy Paying Bill 
 
-## Appendix
+## Note
 
 - We use encapsulation for the first function
 - We use different Function
@@ -26,10 +26,6 @@ This Project on Hotel Management is a general software developed (using Python) 
 - [@BayBisco19](https://github.com/BabyBisco19/HDLmanagementSystem.git)
 - [@Klaudeneaclan](https://github.com/Klaudeneaclan/HDLmanagementSystem.git)
 - [@Gayetajinky](https://github.com/Gayetajinky/HDLmanagementSystem.git)
-## 🚀 About Me
- Im new about python...
-## 🛠 Skills
-Javascript, HTML....
 
 ## Self Asessment
 - Code Reusability - 2/4
