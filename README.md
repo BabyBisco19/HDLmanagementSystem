@@ -30,3 +30,10 @@ Record()
  Im new about python...
 ## 🛠 Skills
 Javascript, HTML....
+
+## Demo
+https://youtu.be/2dexo0pRRyo
+
+## Screenshots
+
+
