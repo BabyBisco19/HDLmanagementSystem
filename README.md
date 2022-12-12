@@ -50,7 +50,7 @@ https://youtu.be/2dexo0pRRyo
 - ![2](ScreenShots/2.png)
 - ![3](ScreenShots/3.png)
 - ![4](ScreenShots/4.png)
-- ![4.1](ScreenShot/4.1.png)
+- ![4.1](ScreenShots/4.1.png)
 - ![5](ScreenShots/5.png)
 - ![6](ScreenShots/6.png)
 - ![7](ScreenShots/7.png)
