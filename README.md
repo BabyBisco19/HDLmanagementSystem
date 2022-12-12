@@ -38,3 +38,11 @@ https://youtu.be/2dexo0pRRyo
 
 ![1](https://ScreenShot/1.PNG)
 
+## Self Asessment
+Code Reusability - 2/4
+Maintainability - 3/4
+Scalability - 3/4
+Execution - 2/4
+Originality - 2/4
+Overall Impression - 3/4
+Total = 15/24
